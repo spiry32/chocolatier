@@ -7,3 +7,6 @@ Chocolatier is a Windows Tool that allows you to install applications via comman
 Special thanks to : [mgXzyy](https://github.com/mariangXzyy/)
 
 Applications are installed using **scoop** package manager for Windows
+
+``> Known Bugs``
+* Can't uninstall Microsoft Edge
