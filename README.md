@@ -1,6 +1,5 @@
 # chocolatier
-![image](https://github.com/spiry32/chocolatier/assets/103727459/5a080872-b2e4-4203-921d-0d975f8091e8)
-
+![image](https://github.com/spiry32/chocolatier/assets/103727459/7a3bc6b2-4022-472f-bed9-3a226e4d439f)
 **⚠[WARNING] Not recommended for use! STILL WORKING ON IT!!!**
 
 Chocolatier is a Windows Tool that allows you to install applications via command line.
